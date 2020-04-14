@@ -1,7 +1,7 @@
-baseURL: "https://jojo-wc-rabbit.github.io/wc-blog/"
+baseURL: "https://jojo-wc-rabbit.github.io/myblog/"
 languageCode: "en-us"
 title: "JOJO-wc | 王川"
-googleAnalytics: "UA-48667916-2"
+#googleAnalytics: "UA-48667916-2"
 disqusShortname: "wc"
 ignoreFiles: [
   "\\.Rmd$", "_files$", "_cache$", "\\.txt$", "\\.csv$", "\\.tsv$", "\\.tgz$",
@@ -87,7 +87,7 @@ menu:
 
 params:
   description: "JOJO-wc's Personal Website | 王川的个人网站"
-  disqusURL: "https://jojo-wc-rabbit.github.io/wc-blog/"
+  disqusURL: "https://jojo-wc-rabbit.github.io/myblog/"
  # googleAdsense: "ca-pub-2608165017777396"
   
   jsCookieVersion: "2.2.1"
